@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "about": "Sobre",
+    "artists": "Artistas",
+    "constructions": "Obras",
+    "meetings": "Encontros"
+  },
+  "body": {
+    "inConstruction": "Em construção"
+  }
+}
