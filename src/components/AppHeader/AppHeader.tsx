@@ -46,7 +46,7 @@ const AppHeader: React.FC = () => {
             <div className="navigation-language--wrapper">
               <Dropdown overlay={menu}>
                 <a className="navigation-language--toggle" id="languageToggle" onClick={e => e.preventDefault()}>
-                  {localStorage.getItem('lang').toUpperCase() || 'PT'}
+                  {localStorage.getItem('lang') && localStorage.getItem('lang').toLowerCase() !== 'de' ? 'PT' : 'DE'}
                 </a>
               </Dropdown>
             </div>
