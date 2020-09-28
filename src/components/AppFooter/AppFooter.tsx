@@ -23,8 +23,7 @@ const AppFooter: React.FC = () => {
         </div>
         <div className="footer--copyright">
           <div className="copyright">
-            <p className="copyright--title">© 2019 Copyright Funcultura
-  </p>
+            <p className="copyright--title">© 2019 Copyright Funcultura</p>
           </div>
 
         </div>

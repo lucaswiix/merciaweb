@@ -8,8 +8,6 @@ import HomePage from './pages/HomePage/HomePage';
 import EncontrosPage from './pages/EncontrosPage/Encontros';
 import ObrasPage from './pages/ObrasPage/Obras';
 import SobrePage from './pages/SobrePage/Sobre';
-import ptLang from './lang/pt.json';
-import deLang from './lang/de.json';
 
 function App() {
   return (
