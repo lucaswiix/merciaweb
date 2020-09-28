@@ -1,4 +1,4 @@
-import { Dropdown, Layout, Menu } from 'antd';
+import { Dropdown, Menu } from 'antd';
 import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import deLang from '../../lang/de.json';
